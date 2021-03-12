@@ -24,16 +24,16 @@ from userbot import CMD_HELP, bot
 from userbot.events import register
 
 KANGING_STR = [
-    "Usando alquimia para clonar esse sticker...",
-    "Pegando isso aqui emprestado...",
-    "Convidando esse sticker pro meu pack...",
-    "Hey, lindo sticker!\nSe importa se eu roubar?!..",
-    "hehe achado não é roubado\nquem perdeu foi relaxado.",
-    "Ay olha aquilo ali (☉｡☉)!→\nEnquanto eu pego isso aqui...",
-    "Enviando sticker para meu banco de dados.",
-    "Simsalabim, passe esse sticker para mim.",
-    "Sticker capturado com sucesso...",
-    "Sr. RoubaSticker roubando seu sticker... ",
+    "a.",
+    "sou lindo.",
+    "kkkkkkk",
+    "cusinho de anao .",
+    "meucu.",
+    "Saulo?.",
+    "cu.",
+    "Vai tomar no cu.",
+    "ata.",
+    "sexo. ",
 ]
 
 
@@ -103,7 +103,7 @@ async def kang(args):
                 emoji = splat[1]
 
         packname = f"a{user.id}_by_{user.username}_{pack}"
-        packnick = f"@{user.username} kang library Book.{pack}"
+        packnick = f"@{user.username} sexo no cu do junin e do saulo.{pack}"
         cmd = "/newpack"
         file = io.BytesIO()
 
